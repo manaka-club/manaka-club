@@ -1,0 +1,22 @@
+{
+  "name": "manaka-club",
+  "version": "0.1.3",
+  "description": "edit image with node",
+  "main": "index.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manaka.club",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manaka-club/manaka-club.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manaka-club/manaka-club/issues"
+  },
+}
