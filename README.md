@@ -91,6 +91,10 @@ base on [ImageStone](http://www.codeproject.com/Articles/13559/ImageStone)
 	
 	-0.1.1 :  package.json updata  
 	
-	-0.1.3 :  readme updata
+	-0.1.3 :  readme updata  
+	
+	-0.1.4 :  ia32,github updata 
+	
+	
 		
 	
